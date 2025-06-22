@@ -36,7 +36,7 @@
                         display-name = "Lower";
                         bindings = <
    &kp TAB    &kp N1       &kp N2       &kp N3       &kp N4       &kp N5         &kp N6   &kp N7   &kp N8 &kp N9    &kp N0 &kp BSPC
-   &bt BT_CLR &bt BT_SEL 0 &bt BT_SEL 1 &bt BT_SEL 2 &bt BT_SEL 3 &bt BT_SEL 4   &kp LEFT &kp DOWN &kp UP &kp RIGHT &rgb_ug(RGB_TOG) &rgb_ug(RGB_BRI)
+   &bt BT_CLR &bt BT_SEL_0 &bt BT_SEL_1 &bt BT_SEL_2 &bt BT_SEL_3 &bt BT_SEL_4   &kp LEFT &kp DOWN &kp UP &kp RIGHT &rgb_ug(RGB_TOG) &rgb_ug(RGB_BRI)
    &kp LSHFT  &bl BL_TOGG  &bl BL_STEP  &trans       &trans       &trans         &trans   &trans   &trans &trans    &rgb_ug(RGB_BRD) &rgb_ug(RGB_BRT)
                           	        &kp LGUI     &trans       &kp SPACE      &kp RET  &trans   &kp RALT
                         >;
